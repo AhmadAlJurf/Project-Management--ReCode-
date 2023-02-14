@@ -1,5 +1,6 @@
 # Project-Management-ReCode-
 ___________________________________________
+![ACM POSTS (50)](https://user-images.githubusercontent.com/95411800/218652002-088004bd-5f18-4164-ab54-52aa17755a66.png)
 
 # Project Description
 For my (Managing A Successful Computing Project) class in university, a part of our final project was to create an Agile project managment thesis, therefore we had to choose a compnay and then try to come up with an environemtnal refurbishing and recycling project in order to reduce e-waste.
