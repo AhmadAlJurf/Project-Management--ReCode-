@@ -4,6 +4,13 @@ ___________________________________________
 # Project Description
 For my (Managing A Successful Computing Project) class in university, a part of our final project was to create an Agile project managment thesis, therefore we had to choose a compnay and then try to come up with an environemtnal refurbishing and recycling project in order to reduce e-waste.
 
+
+The company of choice of mine was Aramex, hence Aramex already launched multiple sustainable projects and are already intrested in this topic, moreover they are a part of the courier industry which is a field that is in a huge need of eco projects.
+![ACM POSTS (49)](https://user-images.githubusercontent.com/95411800/218651794-d1bddd71-4f1e-42a6-9765-628bd82b4791.png)
+
+
+In a nutshell, my project aims to collect old unused barcode scanner used in operations in Aramex, then assume we have three devices each of them contains a working part that does not work in the others, we collect all the remaining parts that are still working from each device then gather them all into one device using an Arduino board. Nonetheless, I also aim to retreive old mobile batteries from the old phones used in the QA department, and connect those batteries to the new devices in order to make them rechargable therefore more sustainable.
+
 ___________________________________________
 
 # Project Summary 
